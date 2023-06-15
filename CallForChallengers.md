@@ -8,7 +8,7 @@ layout: base
 Thanks to their unique mobility, aerial robots have become widely adopted for inspection tasks. We believe that the next breakthrough in this industry shall be delivered by Cooperative Aerial Robots Inspection (CARI) systems. Moreover, in the same spirit of economic specialization, heterogeneous CARI systems has the potential to acheive greater efficiency, quality and versatility compared to single-UAV or homogenous systems.
 Nevertheless, to accomplish this vision, novel cooperative strategies that can optimally coordinate the operation of multiple robots remain an open research problem.
 
-To accelerate this development, we introduce the **C**ooperative **A**erial **R**obots **I**nspection **C**hallenge (CARIC) Benchmark, a software stack based on [Gazebo](https://gazebosim.org/home), [RotorS](https://github.com/ethz-asl/rotors_simulator) and other open-source packages. The objective of CARIC is twofold. First, it aims to faithfully simulate multi-UAV systems operating in typical real-world inspection missions. Second, based on this tool, different cooperative inspection schemes can be benchmarked based on a common metric. The software stack is made public to benefit the community and we would like to welcome all who are interested to participate in [the open challenge at CDC 2023, Singapore](https://cdc2023.ieeecss.org/).
+To accelerate this development, we introduce the **C**ooperative **A**erial **R**obots **I**nspection **C**hallenge (CARIC) Benchmark, a software stack based on [Gazebo](https://gazebosim.org/home), [RotorS](https://github.com/ethz-asl/rotors_simulator/wiki) and other open-source packages. The objective of CARIC is twofold. First, it aims to faithfully simulate multi-UAV systems operating in typical real-world inspection missions. Second, based on this tool, different cooperative inspection schemes can be benchmarked based on a common metric. The software stack is made public to benefit the community and we would like to welcome all who are interested to participate in the challenge to be held at [CDC 2023, Singapore](https://cdc2023.ieeecss.org/).
 
 For the problem description and other technical details of the CARIC software stack, please visit the project's website at [https://ntu-aris.github.io/caric/](https://ntu-aris.github.io/caric/)
 
@@ -45,7 +45,7 @@ For the problem description and other technical details of the CARIC software st
 
 ## Contacts
 
-Please contact **Dr. Thien-Minh Nguyen** via email thienminh.npn@ieee.org / thienminh.nguyen@ntu.edu.sg for general inquiries.
+Please contact **Dr. Thien-Minh Nguyen** via email thienminh.npn@ieee.org for general inquiries.
 
 ## Technical inquiries and FAQ
 
