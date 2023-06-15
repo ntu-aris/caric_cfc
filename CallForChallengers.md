@@ -29,7 +29,7 @@ For the problem description and other technical details of the CARIC software st
 </div>
 
 
-## How to participate?
+## Procedure
 
 * All participants must sign up via the following [form](https://docs.google.com/forms/d/e/1FAIpQLSfpaBQUJmdi6etYXH5t0bj7R-TWuU_11-lUlEfKzcUrz9Cdyw/viewform) by **17 November 2023**. The latest news and updates will be sent via the registered emails.
 * Participants can install the CARIC stack by following the instructions at CARIC's [website](https://ntu-aris.github.io/caric).
