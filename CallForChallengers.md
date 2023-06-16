@@ -21,8 +21,8 @@ For the problem description and other technical details of the CARIC software st
 * **Benmei Chen**, Department of MAE, Chinese University of Hong Kong.
 
 <div style="text-align:center">
-  <img src="docs/ntulogo.png" alt="ntulogo" height="60"/>
-  <img src="docs/cuhk_logo_2x.png" alt="ntulogo" height="60"/>
+  <img src="docs/ntulogo.png" alt="ntulogo" height="80"/>
+  <img src="docs/cuhk_logo_2x.png" alt="ntulogo" height="80"/>
 </div>
 
 <div style="text-align:center">
