@@ -12,6 +12,12 @@ To accelerate this development, we introduce the **C**ooperative **A**erial **R*
 
 For the problem description and other technical details of the CARIC software stack, please visit the project's website at [https://ntu-aris.github.io/caric/](https://ntu-aris.github.io/caric/)
 
+<div align="center">
+    <a href="https://youtu.be/hB1CvVa50wM" target="_blank">
+    <img src="docs/snap_shot.png" width=100% />
+    <figcaption>CARIC @ CDC2023-Singapore</figcaption>
+</div>
+      
 ## Organizers
 
 * **Thien-Minh Nguyen**, School of EEE, Nanyang Technological University, Singapore.
