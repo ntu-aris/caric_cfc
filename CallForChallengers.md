@@ -1,6 +1,3 @@
----
-layout: base
----
 # Cooperative Aerial Robots Inspection Challenge
 
 ## Goal
