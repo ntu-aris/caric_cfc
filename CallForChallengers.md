@@ -12,7 +12,7 @@ For the problem description and other technical details of the CARIC software st
 <div align="center">
     <a href="https://youtu.be/hB1CvVa50wM" target="_blank">
     <img src="docs/snap_shot.png" width=100% />
-    <figcaption>CARIC @ CDC2023-Singapore</figcaption>
+    <figcaption>CARIC at CDC2023-Singapore</figcaption>
 </div>
       
 ## Organizers
