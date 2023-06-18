@@ -21,7 +21,7 @@ For the problem description and other technical details of the CARIC software st
 * **Muqing Cao**, School of EEE, Nanyang Technological University, Singapore.
 * **Shenghai Yuan**, School of EEE, Nanyang Technological University, Singapore.
 * **Lihua Xie**, School of EEE, Nanyang Technological University, Singapore.
-* **Benmei Chen**, Department of MAE, Chinese University of Hong Kong.
+* **Ben M. Chen**, Department of MAE, Chinese University of Hong Kong.
 
 <div align="center">
   <img src="docs/ntulogo.png" alt="ntulogo" height="80"/>
